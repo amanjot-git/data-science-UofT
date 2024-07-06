@@ -9,3 +9,14 @@ Courses:
 2. Statistics for Data Science
 3. Machine Learning
 4. Big Data Management Systems and Tools
+
+Table of Contents
+=================
+
+
+* [Case Study 1: Selecting data & finding the top chocolate bar producers](https://github.com/amanjot-git/data-science-UofT/blob/main/Top%2010%20producers%20of%20chocolate%20and%20highest%20rated%20chocolate%20bar%20producers.ipynb)
+  <br>Here we get data regarding Chocolate bars and find the top producers 
+* [Case Study 2: Which borough has the most noise complaints? (or, more selecting data)]()
+  <br>
+* [Case Study 3: Find out on which weekday people bike the most with groupby and aggregate]()
+  <br> 
