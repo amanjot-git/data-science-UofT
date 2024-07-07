@@ -22,5 +22,5 @@ Table of Contents
   <br> Analyzing provincial data from 2016, 2017, 2018 to understand the trends and patterns
 * [Case Study 4: Which flower has longest petal?](https://github.com/amanjot-git/data-science-UofT/blob/main/Analyzing%20the%20Iris%20Flower%20Data%20Set.ipynb)
   <br> Analyzing Iris flower data set to understand the classes in which they are divided, their sepal and petal lengths
-* [Case Study 5: Find out on which weekday people bike the most with groupby and aggregate]()
-  <br> 
+* [Case Study 5: Find out on which weekday people bike the most with groupby and aggregate](https://github.com/amanjot-git/data-science-UofT/blob/main/Analyzing%20Toronto%20BikeShare%20data.ipynb)
+  <br> Finding the pattern of bikesharing by people of specific region
