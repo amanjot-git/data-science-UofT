@@ -20,5 +20,7 @@ Table of Contents
   <br> We have data regarding books and authors and we try different data structures such as list, dictionaries, classes and objects, dataframes, SQL to store the data
 * [Case Study 3: Which province got the most federal support?](https://github.com/amanjot-git/data-science-UofT/blob/main/Analyzing%20Provincial%20Support.ipynb)
   <br> Analyzing provincial data from 2016, 2017, 2018 to understand the trends and patterns
-* [Case Study 3: Find out on which weekday people bike the most with groupby and aggregate]()
+* [Case Study 4: Which flower has longest petal length?](https://github.com/amanjot-git/data-science-UofT/blob/main/Analyzing%20the%20Iris%20Flower%20Data%20Set.ipynb)
+  <br> Analyzing Iris flower data set to understand the classes in which they are divided, their sepal and petal lengths
+* [Case Study 5: Find out on which weekday people bike the most with groupby and aggregate]()
   <br> 
