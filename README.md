@@ -5,7 +5,7 @@ The course content covers the seven domains of INFORMS' Certified Analytics Prof
 
 Courses:
 
-1. Foundation of Data Science ( currently in progress)
+1. Foundation of Data Science
 2. Statistics for Data Science
 3. Machine Learning
 4. Big Data Management Systems and Tools
