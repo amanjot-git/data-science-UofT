@@ -1,4 +1,4 @@
-# Foundation of Data Science
+# Foundations of Data Science
 - *Introduction to Python*<br>
 - *NumPy for Data Analysis*<br>
 - *Pandas for Data Manipulation*<br>
