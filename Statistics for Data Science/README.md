@@ -1,4 +1,4 @@
-#Statistics for Data Science
+# Statistics for Data Science
 - *Probability*
 - *Distribution of Random Variables*
 - *Introduction to Statistical Inference*
